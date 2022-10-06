@@ -83,3 +83,21 @@ EXPERIMENT 11
 IOT Based Smart Home Using Cisco Packet Tracer
 
 ![IOT Based Smart Home Using Cisco Packet Tracer](https://user-images.githubusercontent.com/112744426/194317835-ef81227d-187c-469c-aff3-53527438aefb.png)
+
+EXPERIMENT 12
+
+Smart Garden in Cisco Packet Tracer
+
+![Smart Garden in Cisco Packet Tracer](https://user-images.githubusercontent.com/112744426/194319224-a3c8c75e-f500-4cbd-8f0d-14fb5999b763.png)
+
+EXPERIMENT 13
+
+IOT Devices in Networking Using Cisco Packet Tracer
+
+![IOT CONNECTION](https://user-images.githubusercontent.com/112744426/194320024-b158c00d-d4c4-4b66-93b3-ed92e5f1b3ed.png)
+
+EXPERIMENT 14
+
+Simulating X,Y,Z Company Network Design
+
+![14 Simulating X,Y,Z Company Network Design](https://user-images.githubusercontent.com/112744426/194321091-7b36dd12-8e28-48fd-bd72-f0c4471e5287.png)
