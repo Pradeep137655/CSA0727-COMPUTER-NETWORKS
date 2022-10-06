@@ -36,6 +36,50 @@ HYBRID TOPOLOGY
 
 EXPERIMENT 4
 
-DATA LINK LAYER TRAFFIC SIMULATION
+DATA LINK LAYER TRAFFIC SIMULATION OF CSMA/CD & CSMA/CA
+
+![data link layer traffic simulation CSMACA  CSMACD](https://user-images.githubusercontent.com/112744426/194308194-eb69e019-ec13-476e-aea7-661cffbf8f11.png)
+
+EXPERIMENT 5
+
+DATA LINK LAYER TRAFFIC SIMULATION OF ARP
 
 ![data  link layer for traffic stimulation](https://user-images.githubusercontent.com/112744426/194306349-a7df69d1-e138-4840-98f4-4e471b35ae0f.png)
+
+EXPERIMENT 6
+
+STATIC ROUTING
+
+![STATIC ROUTING](https://user-images.githubusercontent.com/112744426/194309044-fda07fee-050d-474b-9730-2e58548677a5.png)
+
+EXPERIMENT 7
+
+DYNAMIC ROUTING
+
+![DYNAMIC ROUTING](https://user-images.githubusercontent.com/112744426/194309595-b1b946c8-c2fb-4fda-9831-9db970211283.png)
+
+EXPERIMENT 8
+
+SUBNETTING-CLASS C ADDRESSING
+
+![SUBNETTING-CLASS C ADDRESSING](https://user-images.githubusercontent.com/112744426/194310603-263e2b55-f85a-4102-a54c-4522e9dc62e3.png)
+
+EXPERIMENT 9
+
+FUNCTIONALITIES OF TCP & UDP
+
+#DNS ,#FTP,#Web, #Email Server configuration|
+
+![FUNCTINALITIES #DNS ,#FTP,#Web, #Email Server configuration](https://user-images.githubusercontent.com/112744426/194316656-b20732d9-f608-4625-8a86-0dca46d530b8.png)
+
+EXPERIMENT 10
+
+TCP,UDP EXPLORATION SOLUTION
+
+![EXPLORATION OF TCP   UDP](https://user-images.githubusercontent.com/112744426/194317021-fd82fd16-9d94-4b6c-9934-7dc94bf59744.PNG)
+
+EXPERIMENT 11
+
+IOT Based Smart Home Using Cisco Packet Tracer
+
+![IOT Based Smart Home Using Cisco Packet Tracer](https://user-images.githubusercontent.com/112744426/194317835-ef81227d-187c-469c-aff3-53527438aefb.png)
