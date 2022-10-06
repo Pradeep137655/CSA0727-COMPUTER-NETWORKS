@@ -130,3 +130,11 @@ IOT Based Smart Home using WPA Security & Radius Server
 EXPERIMENT 19
 
 WLAN Using Cisco Packet Tracer
+
+![WLAN Using Cisco Packet Tracer](https://user-images.githubusercontent.com/112744426/194325671-7e7963a5-2482-4a08-83bb-210732a8ab33.png)
+
+EXPERIMENT 20
+
+Control of Fan, Light, Window & Application of Using Cisco Packet Tracer
+
+![Control of Fan, Light, Window   Application of Using Cisco Packet Tracer](https://user-images.githubusercontent.com/112744426/194326266-5d7d4a27-3559-41c1-91bd-02368c701935.png)
