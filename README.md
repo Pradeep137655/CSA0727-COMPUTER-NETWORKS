@@ -101,3 +101,32 @@ EXPERIMENT 14
 Simulating X,Y,Z Company Network Design
 
 ![14 Simulating X,Y,Z Company Network Design](https://user-images.githubusercontent.com/112744426/194321091-7b36dd12-8e28-48fd-bd72-f0c4471e5287.png)
+
+EXPERIMENT 15
+
+Make Computer Lab in Cisco Packet Tracer
+
+![Make Computer Lab in Cisco Packet Tracer](https://user-images.githubusercontent.com/112744426/194321980-0c37aa96-f303-4191-bf8a-864b2b4fe0a6.png)
+
+EXPERIMENT 16
+
+Simulate a Multimedia Network
+
+![Simulate a Multimedia Network](https://user-images.githubusercontent.com/112744426/194322669-a5494e05-cf3e-4cb2-8891-59eee6fbc323.png)
+
+EXPERIMENT 17
+
+AAA Local & Server Based Authentication Configuration in Cisco Packet Tracer
+
+![AAA Local   Server Based Authentication Configuration in Cisco Packet Tracer](https://user-images.githubusercontent.com/112744426/194323553-7ccde9bc-4762-4790-b1e0-c274c3c41925.png)
+
+
+EXPERIMENT 18
+
+IOT Based Smart Home using WPA Security & Radius Server
+
+![IOT Based Smart Home using WPA Security   Radius Server](https://user-images.githubusercontent.com/112744426/194324510-c7b6709e-502b-438b-9499-b95f43f4eb3f.png)
+
+EXPERIMENT 19
+
+WLAN Using Cisco Packet Tracer
